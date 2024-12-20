@@ -1,5 +1,5 @@
-# Clientell's Salesforce Awesome List
 
+# <img src="clientell_logo.png" alt="Clientell Logo" height="40px"> Clientell's Salesforce Awesome List
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -155,8 +155,24 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
 - [SOQL Generator](https://soqlgenerator.getclientell.com)  
   Simplify SOQL query creation with an intuitive interface, designed for both beginners and experts.
 
+- [Custom SOQL ChatGPT](https://chatgpt.com/g/g-Z9lv85MAz-soql-generator)
+  Meet Salesforce SOQL Generator: Your AI assistant that simplifies SOQL query creation, saving you time and ensuring you don’t miss     crucial data insights.
+  
 - [Clientell Job Board](https://jobboard.getclientell.com)  
-  Find Salesforce-specific job listings, prepare with interview guides, and optimize your resume with an AI-powered analyzer.
+  Find Salesforce-specific job listings.
+
+- [Clientell Interview Prep Guide](https://jobboard.getclientell.com/interview-prep)
+ Prepare for your Salesforce career with AI-powered mock interviews covering Admin, Developer, Consultant, and Architect roles.
+
+- [Clientell Resume Analyzer](https://jobboard.getclientell.com/resume-analyzer)
+Upload your resume to get detailed insights about your Salesforce skills, experience, and career recommendations
+
+- [Clientell Sales Calculator](https://jobboard.getclientell.com/sales-calculator)
+Make informed decisions with our suite of essential Salesforce calculators.
+
+- [Clientell AI Agent](https://app.clientell.ai)
+From workflows to reports, manage your entire Salesforce ecosystem with simple chat commands—no technical expertise needed!
+Free for a limited time!
 
 - [Dataloader AI](https://www.dataloader.ai)  
   An intelligent data loader that simplifies uploading, updating, and managing Salesforce data.  
@@ -164,6 +180,7 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
     - Human-like prompts for effortless data management.  
     - Automated checks and smart mapping for error-free operations.  
     - Free for a limited time!
+
 - [Email Template Generator](https://jobboard.getclientell.com/sales-tools/email-template-generator)
   Create high-quality email templates for your sales team with our generator.  
 - **Features**:
@@ -180,7 +197,9 @@ Clientell offers a suite of innovative tools designed to enhance productivity an
   - Visualize steps to ensure clarity and efficiency.
 - **Use Cases**:
   - Design, document, and share sales processes.
-  - Enhance team alignment and improve sales outcomes.  
+  - Enhance team alignment and improve sales outcomes.
+
+
 
 ---
 ### 6. Salesforce Certifications
@@ -368,6 +387,16 @@ Please read our [contribution guidelines](contributing.md) before submitting pul
 To the extent possible under law, Clientell has waived all copyright and related or neighboring rights to this work.
 
 
+## Reach out to us!
+
+At Clientell AI, we're building AI agents for Salesforce to help sales teams work smarter. As a growing startup, we're excited to learn and improve with your help.
+We'd love to hear your thoughts! 
+
+Join our community on Slack:
+https://dataloaderai.slack.com/join/shared_invite/zt-2ozsvgqom-YJ9nWwEg_pCcgn2YYYDtJA#/shared-invite/email
+
+
+Or reach out directly: help@getclientell.com
 
 
 
