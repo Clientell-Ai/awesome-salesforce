@@ -339,7 +339,7 @@ Free for a limited time!
 - [Salesforce Inspector Reloaded](https://github.com/tprouvot/Salesforce-Inspector-reloaded): Enhanced Chrome extension for Salesforce development
 
 #### Data Management & Migration
-- [DLLoader.ai](https://dataloader.ai/): Modern web-based data loader with AI capabilities
+- [DataLoader.ai](https://dataloader.ai/): Modern web-based data loader with AI capabilities
 - [CumulusCI](https://github.com/SFDO-Tooling/CumulusCI): Modern build and release automation tool
 - [SFDX Data Move Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility): Enhanced data migration tool
 
@@ -393,7 +393,7 @@ At Clientell AI, we're building AI agents for Salesforce to help sales teams wor
 We'd love to hear your thoughts! 
 
 Join our community on Slack:
-https://dataloaderai.slack.com/join/shared_invite/zt-2ozsvgqom-YJ9nWwEg_pCcgn2YYYDtJA#/shared-invite/email
+[Slack Community](https://dataloaderai.slack.com/join/shared_invite/zt-2ozsvgqom-YJ9nWwEg_pCcgn2YYYDtJA#/shared-invite/email)
 
 
 Or reach out directly: help@getclientell.com
