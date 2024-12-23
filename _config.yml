@@ -6,10 +6,10 @@ description: A curated list of awesome Salesforce resources, tools, and utilitie
 show_downloads: false
 github:
   is_project_page: true
-  repository_url: https://github.com/clientell/awesome-salesforce-clientell
+  repository_url: https://github.com/Clientell-Ai/awesome-salesforce-clientell
 
-# Theme customization
+# Theme customization - Clientell colors
 colors:
-  header: "#2196F3"  # A nice blue color that matches Salesforce
-  gradient_left: "#1976D2"
-  gradient_right: "#2196F3"
+  header: "#00a1e0"  # Salesforce blue
+  gradient_left: "#0176d3"  # Darker shade
+  gradient_right: "#00a1e0"  # Salesforce blue
