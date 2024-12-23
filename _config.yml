@@ -1,7 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
-title: Clientell's Salesforce Awesome List
+title: Awesome Salesforce - Curated List of Resources, Tools and Utilities by Clientell
 description: A curated list of awesome Salesforce resources, tools, and utilities maintained by Clientell
 show_downloads: false
 github:
@@ -13,3 +13,12 @@ colors:
   header: "#00a1e0"  # Salesforce blue
   gradient_left: "#0176d3"  # Darker shade
   gradient_right: "#00a1e0"  # Salesforce blue
+
+# Open Graph configuration
+url: https://clientell-ai.github.io/awesome-salesforce-clientell
+og_image: /assets/images/og-image.png
+keywords:
+  - Salesforce
+  - Awesome
+  - Clientell
+  - CRM
