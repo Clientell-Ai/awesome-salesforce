@@ -215,7 +215,7 @@ Free for a limited time!
 #### Developer Tools
 - [Salesforce Inspector](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh): View and edit Salesforce data quickly.
 - [Salesforce DevTools](https://github.com/xgeek-net/salesforce-devtools): A Chrome extension to speed up Salesforce development.
-- [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
+- [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce.
 ---
 
 ### **8. Visual Studio Code Extensions**
