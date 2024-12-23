@@ -1,7 +1,7 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "jekyll-theme-cayman";
 
 .page-header {
 	background-color: #00a1e0;
@@ -17,7 +17,6 @@
 	h4,
 	h5,
 	h6 {
-		color: #00a1e0;
 		margin-top: 2rem;
 		margin-bottom: 1rem;
 	}
@@ -28,6 +27,10 @@
 
 	li {
 		margin-bottom: 0.5rem;
+	}
+
+	a {
+		color: #00a1e0;
 	}
 }
 
