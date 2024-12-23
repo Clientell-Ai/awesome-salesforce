@@ -1,0 +1,44 @@
+@import "jekyll-theme-cayman";
+
+.page-header {
+	background-color: var(--header-color);
+	background-image: linear-gradient(
+		120deg,
+		var(--gradient-left),
+		var(--gradient-right)
+	);
+}
+
+.main-content {
+	max-width: 80rem;
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		color: var(--header-color);
+		margin-top: 2rem;
+		margin-bottom: 1rem;
+	}
+
+	ul {
+		margin-bottom: 2rem;
+	}
+
+	li {
+		margin-bottom: 0.5rem;
+	}
+}
+
+.project-tagline {
+	opacity: 1;
+	font-weight: 500;
+}
+
+img[alt="Clientell Logo"] {
+	margin: 1rem 0;
+	max-height: 60px;
+	width: auto;
+}

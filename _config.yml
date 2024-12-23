@@ -1,0 +1,15 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Clientell's Salesforce Awesome List
+description: A curated list of awesome Salesforce resources, tools, and utilities maintained by Clientell
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/clientell/awesome-salesforce-clientell
+
+# Theme customization
+colors:
+  header: "#2196F3"  # A nice blue color that matches Salesforce
+  gradient_left: "#1976D2"
+  gradient_right: "#2196F3"
